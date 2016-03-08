@@ -1,5 +1,5 @@
 # Quatrebot
-On April of 2015 I built a 2-link revolute-revolute robotic manipulator that can draw figures on a paper. The whole project comprises forward and inverse kinematics, trajectory generation for the robot, simulation, and physical implementation of the robot. 
+On April of 2015 I built a 2-link revolute-revolute robotic manipulator that can draw figures on a paper. The whole project comprised forward and inverse kinematics, trajectory generation, simulation on MATLAB, and physical implementation of the robot. 
 
 
 Some videos of Quatrebot V1.0 are available at:
